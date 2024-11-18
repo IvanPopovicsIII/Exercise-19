@@ -78,7 +78,7 @@ Example:
 
 Do you want to save the results to a file? (yes/no)
 
-If you choose "yes", the application will ask you for a file path to save the results. If you choose "no", the results will be printed to the console.
+If you choose "yes", the application will save the output into output.txt. If you choose "no", the results will be printed to the console.
 
 Example output:
 

@@ -20,7 +20,7 @@ Exercise 19 is a Java based command-line tool that processes a range of numbers 
 
 ## Installation
 
-To install the application, build it using Maven:
+To install the application, first clone the repository. Then build it using Maven:
 
 mvn clean install
 
